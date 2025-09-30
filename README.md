@@ -3,11 +3,14 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/thomas-paul-00b58b29a" target="_blank">
+  <a href="https://www.linkedin.com/in/thomas-paul-00b58b29a" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
-  <a href="thomas.paul7794@gmail.com" target="_blank">
+  <a href="mailto:thomas.paul@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://thomaspaul01.github.io/PortFolio/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=0A66C2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="portfolio logo" />
   </a>
 </div>
 
